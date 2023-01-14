@@ -29,6 +29,8 @@ public class GamePanel extends JPanel implements ActionListener{
 
     GamePanel(){
 
+
+
     }
 
     public void startGame(){
@@ -46,6 +48,7 @@ public class GamePanel extends JPanel implements ActionListener{
     public void move(){
 
     }
+
     public void checkApple(){
 
     }
